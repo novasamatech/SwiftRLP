@@ -21,5 +21,5 @@ s.source_files = "Classes/RLP.swift",
 s.public_header_files = "SwiftRLP/SwiftRLP.h"
 s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
 
-s.dependency 'BigInt', '~> 3.1'
+s.dependency 'BigInt', '~> 5.0'
 end

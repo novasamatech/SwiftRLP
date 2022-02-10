@@ -1,5 +1,5 @@
 def import_pods
-  pod 'BigInt', '~> 3.1'
+  pod 'BigInt', '~> 5.0'
 end
 
 

@@ -1,1 +1,0 @@
-/Users/alexvlasov/Blockchain/SwiftRLP/SwiftRLP/Pods/Target Support Files/SipHash/SipHash-umbrella.h
